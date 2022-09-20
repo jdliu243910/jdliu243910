@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Jiangxi University of Finance and Economics in China
 - 🌱 I’m currently learning artificial intelligence
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on face recognition
+- 🤔 I’m looking for help with my net friends
+- 💬 Ask me about how to learn github quickly
+- 📫 How to reach me: please to my email:1924523474@qq.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: sense of humor
 -->
